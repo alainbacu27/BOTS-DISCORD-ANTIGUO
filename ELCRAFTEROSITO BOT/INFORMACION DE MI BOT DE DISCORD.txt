@@ -2,7 +2,8 @@ https://discordapp.com/api/oauth2/authorize?client_id=550371281221058562&permiss
 TEST:https://discordapp.com/api/oauth2/authorize?client_id=550993038772535296&permissions=0&scope=bot
 Musica: https://discordapp.com/api/oauth2/authorize?client_id=561493260699303986&permissions=0&scope=bot
 
-CLIENT ID:550371281221058562
+*Esto ya no funciona, esto eran mis bots de mi otra cuenta que ya no existe.
 
-TOKEN:NTUwMzcxMjgxMjIxMDU4NTYy.D1qgdg.qAcGa1sg_ttV3t3gOhBuI8tovdE
+CLIENT ID: Tu Client ID
+TOKEN: Tu Token de tu bot de Discord
 
