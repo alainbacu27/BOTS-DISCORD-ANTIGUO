@@ -10,4 +10,4 @@ client.on("message", (message) => {
     message.channel.send("pong!"); 
   }
 });
-client.login("NTY0MzMzOTI3OTk3NjM2NjA4.XKmXHg.PzYg5V603Ac9LPib0q6RMRGqkHI");
+client.login("tutokenaqui");
