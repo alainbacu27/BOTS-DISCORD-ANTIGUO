@@ -1,0 +1,8 @@
+https://discordapp.com/api/oauth2/authorize?client_id=550371281221058562&permissions=0&scope=bot
+TEST:https://discordapp.com/api/oauth2/authorize?client_id=550993038772535296&permissions=0&scope=bot
+Musica: https://discordapp.com/api/oauth2/authorize?client_id=561493260699303986&permissions=0&scope=bot
+
+CLIENT ID:550371281221058562
+
+TOKEN:NTUwMzcxMjgxMjIxMDU4NTYy.D1qgdg.qAcGa1sg_ttV3t3gOhBuI8tovdE
+

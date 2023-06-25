@@ -1,0 +1,5 @@
+ client.user.setPresence( {
+       status: "online",
+       game: {
+           name: `Estoy en ${client.guilds.size} servidores y ${client.users.size} usuarios. | BOT FUNCIONANDO! `,
+           type: "PLAYING"
